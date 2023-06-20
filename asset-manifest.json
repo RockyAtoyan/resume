@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.b559ab11.css",
+    "main.css": "/resume/static/css/main.bb2df3d0.css",
     "main.js": "/resume/static/js/main.7a2220fc.js",
     "static/js/787.a5fa54f9.chunk.js": "/resume/static/js/787.a5fa54f9.chunk.js",
     "static/media/pixeleum-48.ttf": "/resume/static/media/pixeleum-48.73aab226dc36e8eda591.ttf",
     "static/media/Undertale-Battle-Font.ttf": "/resume/static/media/Undertale-Battle-Font.4ca303e5e47dd0610bd6.ttf",
     "static/media/pixelsBg.svg": "/resume/static/media/pixelsBg.65540ac7b8f3980f108a.svg",
     "index.html": "/resume/index.html",
-    "main.b559ab11.css.map": "/resume/static/css/main.b559ab11.css.map",
+    "main.bb2df3d0.css.map": "/resume/static/css/main.bb2df3d0.css.map",
     "main.7a2220fc.js.map": "/resume/static/js/main.7a2220fc.js.map",
     "787.a5fa54f9.chunk.js.map": "/resume/static/js/787.a5fa54f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b559ab11.css",
+    "static/css/main.bb2df3d0.css",
     "static/js/main.7a2220fc.js"
   ]
 }
