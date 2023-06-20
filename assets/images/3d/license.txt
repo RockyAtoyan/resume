@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sonic
+* source:	https://sketchfab.com/3d-models/sonic-3695c30d5f404875b86be2fbedcbe089
+* author:	tiagojdferreira (https://sketchfab.com/tiagojdferreira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sonic" (https://sketchfab.com/3d-models/sonic-3695c30d5f404875b86be2fbedcbe089) by tiagojdferreira (https://sketchfab.com/tiagojdferreira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
